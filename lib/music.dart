@@ -90,7 +90,7 @@ class _MusicScreenState extends State<MusicScreen> {
               height: 120,
             ),
             Text(
-              "No brainer",
+              "Baatein Karo",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 35,
